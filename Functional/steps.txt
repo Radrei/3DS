@@ -1,0 +1,9 @@
+Stuff I need to do to make the 3DS "turn on":
+
+Make the logo visible
+change #top-screen's bg to white
+change #light-1's bg to #009BEB (blue)
+add the .blink class to #light-3
+change .logo to display: block;
+
+ADD BOTH THE ORIGINAL AND THE FUNCTIONAL TO GITHUB
