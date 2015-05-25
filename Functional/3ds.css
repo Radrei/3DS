@@ -441,6 +441,18 @@ yellow btn: d4b95e
 	text-decoration: none;
 }
 
+.screen-on{
+	background-color: #fff !important;
+}
+
+.light-1-on{
+	background-color: #009BEB !important;
+}
+
+.logo-on{
+	display: block;
+}
+
 /* Animation styles, currently not working */
 .blink {
 	-webkit-animation-name: blink;
